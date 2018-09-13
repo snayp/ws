@@ -1,0 +1,13 @@
+/target/
+.classpath
+.settings
+.DSStore
+.project
+*.iml
+.idea/
+/bin/
+/node_modules/
+/.tern-project
+/local-karma.conf.js
+/package-lock.json
+real_book_test.html
